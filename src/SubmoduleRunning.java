@@ -5,5 +5,8 @@ public class SubmoduleRunning {
         System.out.println("Submodule is running!!!");
 
         LinkedList<Integer> linkedList = new LinkedList();
+
+        linkedList.add(1);
+        linkedList.add(2);
     }
 }
